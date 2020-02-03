@@ -5,3 +5,4 @@ Test
 Devops
 Git Conflict
 After merging manually
+Last line
