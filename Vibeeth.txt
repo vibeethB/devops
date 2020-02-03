@@ -1,2 +1,9 @@
 This is my own file
+<<<<<<< HEAD
 Modified the file
+=======
+Hi 
+Test
+Devops
+Git Conflict
+>>>>>>> 59ca5e3bc9f1ffc20c6822c890a0ec35c9048a48
